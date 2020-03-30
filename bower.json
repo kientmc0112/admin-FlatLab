@@ -1,20 +1,20 @@
-    {
-      "name": "admin-interface",
-      "version": "1.0.1",
-      "authors": [
-        "Hello Kitty <kientmc0112@gmail.com>"
-      ],
-      "description": "Bower Admin Interface",
-      "main": "/",
-      "keywords": [
-        "fonticons"
-      ],
-      "license": "MIT",
-      "homepage": "https://github.com/kientmc0112/admin-FlatLab.git",
-      "ignore": [
-        "README.md"
-      ],
-      "dependencies": {
-        "admin-interface": "https://github.com/kientmc0112/admin-FlatLab.git"
-      }
-    }
+{
+  "name": "admin-interface",
+  "homepage": "https://github.com/kientmc0112/admin-FlatLab.git",
+  "authors": [
+    "kientmc0112 <kientmc0112@gmail.com>"
+  ],
+  "description": "Bower Admin Interface",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
