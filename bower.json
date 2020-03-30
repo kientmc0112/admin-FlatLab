@@ -15,6 +15,6 @@
         "README.md"
       ],
       "dependencies": {
-        "admin_interface": "https://github.com/kientmc0112/admin_FlatLab.git",
+        "admin_interface": "https://github.com/kientmc0112/admin_FlatLab.git"
       }
     }
