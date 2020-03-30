@@ -1,0 +1,17 @@
+    {
+      "name": "demo-bower",
+      "version": "1.0.1",
+      "authors": [
+        "Hello Kitty <kientmc0112@gmail.com>"
+      ],
+      "description": "Bower Admin Interface",
+      "main": "/",
+      "keywords": [
+        "fonticons"
+      ],
+      "license": "MIT",
+      "homepage": " https://github.com/kientmc0112/admin_FlatLab.git",
+      "ignore": [
+        "README.md"
+      ]
+    }
