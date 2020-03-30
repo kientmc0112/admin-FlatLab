@@ -13,5 +13,8 @@
       "homepage": " https://github.com/kientmc0112/admin_FlatLab.git",
       "ignore": [
         "README.md"
-      ]
+      ],
+      "dependencies": {
+        "admin_interface": "https://github.com/kientmc0112/admin_FlatLab.git",
+      }
     }
