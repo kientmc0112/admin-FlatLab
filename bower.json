@@ -1,10 +1,10 @@
 {
   "name": "admin-interface",
-  "homepage": "https://github.com/kientmc0112/admin_FlatLab",
+  "homepage": "https://github.com/kientmc0112/admin-FlatLab",
   "authors": [
     "kientmc0112 <kientmc0112@gmail.com>"
   ],
-  "description": "Template Admin Interface",
+  "description": "Admin Interface",
   "main": "/",
   "keywords": [
     "fonticons"
