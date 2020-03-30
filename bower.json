@@ -1,5 +1,5 @@
     {
-      "name": "admin_interface",
+      "name": "admin-interface",
       "version": "1.0.1",
       "authors": [
         "Hello Kitty <kientmc0112@gmail.com>"
@@ -10,11 +10,11 @@
         "fonticons"
       ],
       "license": "MIT",
-      "homepage": "https://github.com/kientmc0112/admin_FlatLab.git",
+      "homepage": "https://github.com/kientmc0112/admin-FlatLab.git",
       "ignore": [
         "README.md"
       ],
       "dependencies": {
-        "admin_interface": "https://github.com/kientmc0112/admin_FlatLab.git"
+        "admin-interface": "https://github.com/kientmc0112/admin-FlatLab.git"
       }
     }
