@@ -1,0 +1,14 @@
+{
+    "name": "admin-FlatLab",
+    "type": "template",
+    "description": "Admin template",
+    "keywords": ["template", "admin"],
+    "license": "MIT",
+    "authors": [
+        "Kiên Trần <kientmc0112@gmail.com>"
+    ],
+    "require": {
+        "php": "^7.2",
+        "another-vendor/package": "1.*"
+    }
+}
