@@ -1,6 +1,6 @@
 {
-    "name": "admin-flatlab",
-    "type": "template",
+    "name": "flatlap/admin-flatlab",
+    "type": "extension",
     "description": "Admin template",
     "keywords": ["template", "admin"],
     "license": "MIT",
